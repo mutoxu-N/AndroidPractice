@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Programming/GxP/textbook1/AndroidPractice/app/src/main/res/layout/activity_main.xml" value="0.18541666666666667" />
         <entry key="..\:/Programming/GxP/textbook1/AndroidPractice/app/src/main/res/layout/activity_menu_thanks.xml" value="0.18541666666666667" />
+        <entry key="..\:/Programming/GxP/textbook1/AndroidPractice/app/src/main/res/layout/row.xml" value="0.13828125" />
+        <entry key="..\:/Programming/GxP/textbook1/AndroidPractice/app/src/main/res/menu/menu_context_menu_list.xml" value="0.3625" />
+        <entry key="..\:/Programming/GxP/textbook1/AndroidPractice/app/src/main/res/menu/menu_options_menu_list.xml" value="0.184375" />
       </map>
     </option>
   </component>
